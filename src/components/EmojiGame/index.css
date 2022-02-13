@@ -1,0 +1,19 @@
+.main-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+}
+
+.sub-container {
+  margin: 2% 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.emojis-container {
+  max-width: 735px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 15px;
+}

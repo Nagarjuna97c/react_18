@@ -1,0 +1,23 @@
+.card-container {
+  background-color: #ffffff33;
+  height: 125px;
+  width: 125px;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  align-items: center;
+  margin: 15px;
+  border-radius: 8px;
+  border: 1px solid #ffffff;
+}
+
+.image1 {
+  width: 75px;
+  background-color: transparent;
+}
+
+.button {
+  border: none;
+  outline: none;
+  background-color: #ffffff02;
+}
